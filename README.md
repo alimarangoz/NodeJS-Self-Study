@@ -1,2 +1,2 @@
 # NodeJS-Self-Study
-- This repository include basics of NodeJS.
+- This repository includes basics of NodeJS.
